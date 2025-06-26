@@ -243,3 +243,24 @@ java.lang.IllegalArgumentException: timeout value is negative
 [03:46:51] [Server thread/INFO]: anit24 lost connection: Disconnected
 [03:46:51] [Server thread/INFO]: anit24 left the game
 [03:47:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:04:51] [Server thread/INFO]: Stopping the server
+[04:04:52] [Server thread/INFO]: Stopping server
+[04:04:52] [Server thread/INFO]: Saving players
+[04:04:52] [Server thread/INFO]: Saving worlds
+[04:04:52] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
+[04:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:04:52] [C2ME Storage #3/INFO]: Storage thread Thread[#52,C2ME Storage #3,5,main] stopped
+[04:04:52] [C2ME Storage #2/INFO]: Storage thread Thread[#51,C2ME Storage #2,5,main] stopped
+[04:04:52] [C2ME Storage #1/INFO]: Storage thread Thread[#50,C2ME Storage #1,5,main] stopped
+[04:04:52] [C2ME Storage #6/INFO]: Storage thread Thread[#57,C2ME Storage #6,5,main] stopped
+[04:04:52] [C2ME Storage #5/INFO]: Storage thread Thread[#56,C2ME Storage #5,5,main] stopped
+[04:04:52] [C2ME Storage #4/INFO]: Storage thread Thread[#55,C2ME Storage #4,5,main] stopped
+[04:04:52] [C2ME Storage #9/INFO]: Storage thread Thread[#61,C2ME Storage #9,5,main] stopped
+[04:04:52] [C2ME Storage #7/INFO]: Storage thread Thread[#59,C2ME Storage #7,5,main] stopped
+[04:04:52] [C2ME Storage #8/INFO]: Storage thread Thread[#60,C2ME Storage #8,5,main] stopped
